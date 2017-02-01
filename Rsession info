@@ -12,12 +12,13 @@ attached base packages:
  [9] methods   base     
 
 other attached packages:
- [1] Metrics_0.1.1     dummies_1.5.6     Boruta_5.2.0      ranger_0.5.0     
- [5] caret_6.0-68      ggthemes_3.0.3    viridis_0.3.4     plyr_1.8.4       
- [9] gridExtra_2.2.1   lubridate_1.6.0   Hmisc_3.17-4      ggplot2_2.2.1    
-[13] Formula_1.2-1     psych_1.6.9       corrplot_0.77     pROC_1.8         
-[17] doParallel_1.0.10 iterators_1.0.8   foreach_1.4.3     gbm_2.1.1        
-[21] lattice_0.20-33   survival_2.39-2   partykit_1.0-5    rpart_4.1-10     
+ [1] gridBase_0.4-7    Metrics_0.1.1     dummies_1.5.6     Boruta_5.2.0     
+ [5] ranger_0.5.0      caret_6.0-68      ggthemes_3.0.3    viridis_0.3.4    
+ [9] plyr_1.8.4        gridExtra_2.2.1   lubridate_1.6.0   Hmisc_3.17-4     
+[13] ggplot2_2.2.1     Formula_1.2-1     psych_1.6.9       corrplot_0.77    
+[17] pROC_1.8          doParallel_1.0.10 iterators_1.0.8   foreach_1.4.3    
+[21] gbm_2.1.1         lattice_0.20-33   survival_2.39-2   partykit_1.0-5   
+[25] rpart_4.1-10     
 
 loaded via a namespace (and not attached):
  [1] reshape2_1.4.1      colorspace_1.2-6    stats4_3.3.0        mgcv_1.8-12        
@@ -29,4 +30,4 @@ loaded via a namespace (and not attached):
 [25] stringi_1.1.2       tools_3.3.0         magrittr_1.5        lazyeval_0.2.0     
 [29] tibble_1.2          cluster_2.0.4       car_2.1-2           MASS_7.3-45        
 [33] Matrix_1.2-6        data.table_1.9.6    assertthat_0.1      minqa_1.2.4        
-[37] compiler_3.3.0      nnet_7.3-12         nlme_3.1-128
+[37] compiler_3.3.0      nnet_7.3-12         nlme_3.1-128     
