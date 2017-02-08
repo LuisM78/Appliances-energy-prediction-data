@@ -3,7 +3,7 @@ Data sets and scripts for the publication in Energy and Buildings.
 
 This is a repository for data for the publication:
 
-Data driven prediction models of energy use of appliances in a low-energy house. Luis M. Candanedo, Véronique Feldheim, Dominique Deramaix.
+Data driven prediction models of energy use of appliances in a low-energy house. Luis M. Candanedo, Véronique Feldheim, Dominique Deramaix. Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788, http://dx.doi.org/10.1016/j.enbuild.2017.01.083.
 
 This repository hosts the experimental measurements for the energy use regression problem. 
 It includes a clear description of the data files.
